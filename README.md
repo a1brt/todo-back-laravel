@@ -1,3 +1,3 @@
 # Todo backend
 
-Simple todo application backend without authentication. Made to test ou draggable components 
+Simple todo application backend without authentication. Made to test out draggable components 
